@@ -1,6 +1,6 @@
 # GIT/GITHUB setup
 
-The role of this repository was to show different features of "git/github"
+The role of this repository was to show different features of **git/github**
 
 ## Getting Started
 
